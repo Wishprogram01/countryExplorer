@@ -1,4 +1,4 @@
-# GEO//INTEL — Country Explorer
+# GEO//INTEL — Country Explorer [The project is still under development.]
 
 > A dark sci-fi geo-intelligence dashboard for exploring every nation on Earth.
 
